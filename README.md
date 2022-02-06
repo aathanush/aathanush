@@ -6,3 +6,4 @@
 - 👯 I’m looking to collaborate on Machine Learning projects 
 - 🤔 I’m looking forward to learn more on Blockchain technology
 
+[![Thanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aathanush)](https://github.com/anuraghazra/github-readme-stats)
