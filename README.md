@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there👋👋
 
 - I am Thanush A A
 - 🔭 I’m currently a final year student in Thiagarajar College of Engineering and intern at FBS, Chennai
