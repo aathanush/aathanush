@@ -1,7 +1,7 @@
 ### Hi there👋👋
 
 - I am Thanush A A
-- 🔭 I’m currently a final year student in Thiagarajar College of Engineering and intern at FBS, Chennai
+- 🔭 I’m currently a final year student in Thiagarajar College of Engineering and intern at FBS , Chennai
 - 🌱 I’m currently learning about Data Science and Machine Learning
 - 👯 I’m looking to collaborate on Machine Learning projects 
 - I am trying to be more active in GitHub 
