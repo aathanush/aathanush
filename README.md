@@ -2,6 +2,7 @@
 
 - I am Thanush A A 
 - 🔭 I’m currently an intern at FBS , Chennai
+- Alumnus of TCE, Madurai
 - 🌱 I’m currently learning about Reinforcement Learning, Angular, and Spring Boot
 - 👯 I’m looking to collaborate on Machine Learning projects
 - I am trying to be more active in GitHub 
