@@ -1,6 +1,6 @@
 ### Hi there👋👋
 
-- I am Thanush A A 
+- I am Thanush A A
 - 🔭 I’m currently an intern at FBS , Chennai
 - Alumni of Kendriya Vidyalaya, Nagercoil and TCE, Madurai
 - 🌱 I’m currently learning about Reinforcement Learning, Angular, and Spring Boot
