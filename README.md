@@ -8,3 +8,7 @@
 - I am trying to be more active in GitHub 
 
 [![Thanush A A's GitHub stats](https://github-readme-stats.vercel.app/api?username=aathanush)](https://github.com/anuraghazra/github-readme-stats)
+
+`
+Who's gonna carry the boats and the logs?
+`
