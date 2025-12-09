@@ -1,14 +1,14 @@
 ### Ah well! Hello there👋👋
 
 - I am Thanush A A
-- 🔭 I’m currently an intern at FBS , Chennai
+- 🔭 I’m currently a PhD student at IIT Kanpur
+- Worked as a junior software engineer at Ford Business Solutions, Chennai 
 - Alumni of Kendriya Vidyalaya, Nagercoil and TCE, Madurai
-- 🌱 I’m currently learning about Reinforcement Learning, Angular, and Spring Boot
+- 🌱 I’m currently learning about Theoretical foundations of Machine Learning
 - 👯 I’m looking to collaborate on Machine Learning projects
 - I am trying to be more active in GitHub
-- My personal portfolio : [https://aathanush.github.io](https://aathanush.github.io/)
+- My personal portfolio : [https://aathanush.netlify.app](https://aathanush.netlify.app/)
 
-[![Thanush A A's GitHub stats](https://github-readme-stats.vercel.app/api?username=aathanush)](https://github.com/anuraghazra/github-readme-stats)
 
 
 > Who's gonna carry the boats and the logs? 
