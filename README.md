@@ -1,4 +1,4 @@
-### Ah, well! Hello there👋👋 
+## Ah, well! Hello there👋👋 
 
 - I am Thanush A A
 - 🔭 I’m currently a PhD student at IIT Kanpur
