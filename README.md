@@ -10,4 +10,4 @@
 - My personal portfolio : [https://aathanush.netlify.app](https://aathanush.netlify.app/) (New Svelte portfolio is currently under work)
 
 
-> Who's gonna carry the boats and the logs? 
+> It's not the rain, it's what the rain represents 
