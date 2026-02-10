@@ -1,5 +1,6 @@
 ## Ah, well! Hello there👋👋 🤺
 
+- Sorry for not noticing your presence, I was just busy respecting women. 
 - I am Thanush A A
 - 🔭 I’m currently a PhD student at IIT Kanpur
 - Worked as a junior software engineer at Ford Business Solutions, Chennai 
