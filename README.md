@@ -10,4 +10,4 @@
 - My personal portfolio : [https://aathanush.netlify.app](https://aathanush.netlify.app/) 
 
 
-> Few days left for Goggin's birthday 
+> 3 days left for Goggin's birthday 
