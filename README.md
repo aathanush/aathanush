@@ -10,4 +10,4 @@
 - My personal portfolio : [https://aathanush.netlify.app](https://aathanush.netlify.app/) 
 
 
-> Belated Birthday Wishes david goggins 
+> Belated Birthday Wishes David Goggins 
