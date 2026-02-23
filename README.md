@@ -1,7 +1,7 @@
 # Ah, well! Hello there👋👋 🤺
 
 - I am Thanush A A.
-- 🔭 I’m currently a PhD scholar at IIT Kanpur
+- 🔭 I’m currently a PhD scholar at IIT Kanpur.
 - Worked as a junior software engineer at Ford Business Solutions, Chennai 
 - Alumni of Kendriya Vidyalaya, Nagercoil and TCE, Madurai
 - 🌱 I’m currently learning about Theoretical foundations of Machine Learning
