@@ -6,8 +6,8 @@
 - Alumni of Kendriya Vidyalaya, Nagercoil and TCE, Madurai.
 - 🌱 I’m currently learning about the theoretical foundations of Machine Learning.
 - 👯 I’m looking to collaborate on Machine Learning projects.
-- I am trying to be more active on GitHub 
+- I am trying to be more active on GitHub.
 - My personal portfolio : [https://aathanush.netlify.app](https://aathanush.netlify.app/) 
 
 
-> It's not the rain, it's what the rain represents
+> It's not the rain, it's what the rain represents.
