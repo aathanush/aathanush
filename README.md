@@ -8,6 +8,6 @@
 - 👯 I’m looking to collaborate on Machine Learning projects.
 - I am trying to be more active on GitHub.
 - My personal portfolio : [https://aathanush.netlify.app](https://aathanush.netlify.app/).
-
+- PhD update:
 
 > It's not the rain, it's what the rain represents.
