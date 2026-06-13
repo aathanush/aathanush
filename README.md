@@ -3,7 +3,7 @@
 - I am Thanush A A.
 - 🎓 I’m currently a PhD scholar at IIT Kanpur.
 - Before that, I worked as a Junior Software Engineer at Ford Business Solutions, Chennai.
-- Alumni of Kendriya Vidyalaya, Nagercoil and Thiagarajar CE, Madurai.
+- Alumni of Kendriya Vidyalaya, Nagercoil and Thiagarajar College E, Madurai.
 - 🌱 I’m currently learning about the theoretical foundations of Machine Learning.
 - 👯 I’m looking to collaborate on Machine Learning projects.
 - I am trying to be more active on GitHub.
