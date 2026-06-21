@@ -8,4 +8,4 @@
 - I am trying to be more active on GitHub.
 - My personal portfolio : [https://aathanush.netlify.app](https://aathanush.netlify.app/).
 
-> It's not the rain, it's what the rain represents.
+> Most men die at 27, we just bury them at 72
