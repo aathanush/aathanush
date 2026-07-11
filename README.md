@@ -8,4 +8,4 @@
 - I am trying to be more active on GitHub.
 - My personal portfolio : [https://aathanush.netlify.app](https://aathanush.netlify.app/).
 
-> Think lightly of yourself and deeply of the world
+> Think lightly of yourself and deeply of the world - Miyamoto Mushashi
