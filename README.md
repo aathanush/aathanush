@@ -2,7 +2,6 @@
 
 ### PhD student in IIT Kanpur
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=aathanush" alt="aathanush" /></a> </p>
 
 - 🔭 I'm currently working on **Improving sample complexity bounds for learning intersection of halfspaces**
