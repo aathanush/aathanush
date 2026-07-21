@@ -33,5 +33,4 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aathanush&show_icons=true&locale=en" alt="aathanush" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aathanush&" alt="aathanush" /></p>
-
+[![Thanush A A's GitHub stats](https://github-stats-extended.vercel.app/api?username=aathanush)](https://github.com/stats-organization/github-stats-extended)
