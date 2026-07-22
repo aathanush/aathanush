@@ -34,5 +34,3 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aathanush&show_icons=true&locale=en&layout=compact" alt="aathanush" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aathanush&show_icons=true&locale=en" alt="aathanush" /></p> -->
-
-[![Thanush A A's GitHub stats](https://github-stats-extended.vercel.app/api?username=aathanush)](https://github.com/stats-organization/github-stats-extended)
