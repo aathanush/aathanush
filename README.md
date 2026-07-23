@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Learning Theory, Linear Algebra, Machine Learning**
 
-- ⚡ Fun fact **"This fact is not funny" can never be a fun fact.**
+- ⚡ Fun fact: **"This fact is not funny" can never be a fun fact.**
 
 - 👨‍💻 All of my projects are available at **[https://aathanush.netlify.app](https://aathanush.netlify.app)**
 
