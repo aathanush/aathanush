@@ -2,7 +2,7 @@
 
 ### PhD student in IIT Kanpur
 [![Thanush A A's GitHub stats](https://github-stats-extended.vercel.app/api?username=aathanush)](https://github.com/stats-organization/github-stats-extended)
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=aathanush" alt="aathanush" /></a> </p> -->
+
 [![trophy](https://trophy.benkou.dev/?username=aathanush&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
