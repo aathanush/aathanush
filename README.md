@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: **"This fact is not funny" can never be a fun fact.**
 
-- 👨‍💻 All of my projects are available at **[https://aathanush.netlify.app](https://aathanush.netlify.app)**
+- 👨‍💻 My personal portfolio: **[https://aathanush.netlify.app](https://aathanush.netlify.app)**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1NugTL7M0HtTY7qCxMpzaDqEBQEjrDS-u/view](https://drive.google.com/file/d/1NugTL7M0HtTY7qCxMpzaDqEBQEjrDS-u/view)**
 
