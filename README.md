@@ -3,7 +3,7 @@
 ### PhD student in IIT Kanpur
 [![Thanush A A's GitHub stats](https://github-stats-extended.vercel.app/api?username=aathanush)](https://github.com/stats-organization/github-stats-extended)
 
-- 🔭 I'm currently working on **Improving sample complexity bounds for learning intersection of halfspaces**
+- 🔭 I'm currently working on **Improving sample/time complexity bounds for learning intersection of halfspaces**
 
 - 🌱 I'm currently learning **Linear Algebra Done Right - Sheldon Axler**
 
